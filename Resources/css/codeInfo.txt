@@ -1,0 +1,45 @@
+1) text-rendering: optimizedLegibility;
+>> The text-rendering property in CSS allows you to choose quality of text over speed (or vice versa) allowing you to fine tune optimization by suggesting to the browser as to how it should render.
+>> increase the speed of our browser so that time taken by our browser is minimum.
+>> check values online.
+
+2) normalize.css:
+>> This is used to make the browser render our all elements consistently, with this some elements will become compatable and consistent in all the browsers available in the market.
+
+3) .btn:link,
+.btn:visited
+>> property to tell the design that keep the link same if visited and for not visited
+
+4) &mdash:
+>> gives you an accessiblity to use a big dash in the U.I
+
+5) figure tag:
+>> combines or encapsulates the image and its description.
+
+6) scale():
+>> used in transform and is used to zoom in a little bit 
+
+7) blockquote:
+>> used to put the content or the code along with the author name into a single unit
+<cite>
+>> author name is to be mentioned
+
+8) element:before{}
+>> content: '\201C';
+font-size: 500%;
+display: block;
+>> Used to print quotes, size is used to denote the size and then block to take over the whole horizontal width
+
+9) position
+
+10) jQuery
+- Javascript library
+>> Used to make javaScript shorter and easier to write especially for
+> DOM manipulation
+> Event handling
+
+>> CDN jQuery file
+> Content Delivery Network
+> You can either download or connect jQuery file into your project above body tag to implement it.
+
+11) Smooth scroll used to scroll smoothly to a page section
